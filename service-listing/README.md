@@ -1,1 +1,1 @@
-https://fswd-ca-1-kappa.vercel.app/
+https://fswd-ca-1-ten.vercel.app/
