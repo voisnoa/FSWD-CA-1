@@ -1,7 +1,7 @@
 import React from 'react'
 import "./App.css"
 import ServiceCard from './components/ServiceCard'
-import dataArray from "./data.json"
+
 
 function App() {
 
@@ -12,7 +12,9 @@ function App() {
 
       <br />
       
-      <ServiceCard></ServiceCard>
+      <ServiceCard name = "vet" desc = "vet doc" />
+      <ServiceCard name = "Joker" desc = "joke man" />
+    
     </div>
   )
 }
